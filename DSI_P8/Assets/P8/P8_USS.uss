@@ -1,0 +1,153 @@
+:root {
+}
+
+.MainMenuButton {
+    justify-content: flex-start;
+    align-self: flex-start;
+    flex-direction: row;
+    margin-top: 21px;
+    margin-right: 21px;
+    margin-bottom: 21px;
+    margin-left: 21px;
+    width: 80%;
+    height: 20%;
+    font-size: 53px;
+    -unity-font-style: bold;
+    -unity-text-align: middle-left;
+    color: rgb(224, 224, 224);
+    -unity-font-definition: url("project://database/Assets/Text/Ubuntu-B.ttf?fileID=12800000&guid=bc0658c29f255dd4db313be2aa5231b3&type=3#Ubuntu-B");
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.OptionsButton {
+    -unity-font-definition: url("project://database/Assets/Text/Ubuntu-L.ttf?fileID=12800000&guid=423cda87492a76844b24741cb6ecae55&type=3#Ubuntu-L");
+    width: 50%;
+    font-size: 22px;
+    background-color: rgba(188, 188, 188, 0);
+    border-left-color: rgba(149, 149, 149, 0);
+    border-right-color: rgba(149, 149, 149, 0);
+    border-top-color: rgba(149, 149, 149, 0);
+    border-bottom-color: rgba(149, 149, 149, 0);
+    color: rgb(255, 255, 255);
+    -unity-font-style: bold;
+    align-self: center;
+}
+
+.OptionsButton:hover {
+    -unity-font-definition: url("project://database/Assets/Text/Ubuntu-L.ttf?fileID=12800000&guid=423cda87492a76844b24741cb6ecae55&type=3#Ubuntu-L");
+    width: 50%;
+    font-size: 22px;
+    background-color: rgba(188, 188, 188, 0);
+    border-left-color: rgba(149, 149, 149, 0);
+    border-right-color: rgba(149, 149, 149, 0);
+    border-top-color: rgba(149, 149, 149, 0);
+    border-bottom-color: rgba(149, 149, 149, 0);
+    color: rgb(150, 1, 0);
+    -unity-font-style: bold;
+    align-self: center;
+}
+
+.OptionsBackButton {
+    translate: 35px -84px;
+    background-image: url("project://database/Assets/Images/return%20button.png?fileID=2800000&guid=2773016918b050e4fb26e8875583a02f&type=3#return button");
+    aspect-ratio: 1;
+    height: 80px;
+    width: 80px;
+    background-color: rgba(188, 188, 188, 0);
+    border-left-color: rgba(149, 149, 149, 0);
+    border-right-color: rgba(149, 149, 149, 0);
+    border-top-color: rgba(149, 149, 149, 0);
+    border-bottom-color: rgba(149, 149, 149, 0);
+}
+
+.OptionsBackButton:hover {
+    translate: 35px -84px;
+    background-image: url("project://database/Assets/Images/return%20button.png?fileID=2800000&guid=2773016918b050e4fb26e8875583a02f&type=3#return button");
+    aspect-ratio: 1;
+    height: 80px;
+    width: 80px;
+    background-color: rgba(188, 188, 188, 0);
+    border-left-color: rgba(149, 149, 149, 0);
+    border-right-color: rgba(149, 149, 149, 0);
+    border-top-color: rgba(149, 149, 149, 0);
+    border-bottom-color: rgba(149, 149, 149, 0);
+    scale: 1.5 1.5 1.5;
+}
+
+.MainMenuButton:hover {
+    justify-content: flex-start;
+    align-self: flex-start;
+    flex-direction: row;
+    margin-top: 21px;
+    margin-right: 21px;
+    margin-bottom: 21px;
+    margin-left: 21px;
+    width: 80%;
+    height: 20%;
+    font-size: 53px;
+    -unity-font-style: bold;
+    -unity-text-align: middle-left;
+    background-color: rgb(19, 19, 19);
+    color: rgb(255, 215, 0);
+    -unity-font-definition: url("project://database/Assets/Text/Ubuntu-B.ttf?fileID=12800000&guid=bc0658c29f255dd4db313be2aa5231b3&type=3#Ubuntu-B");
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    background-image: url("project://database/Assets/Images/buttonbg.png?fileID=2800000&guid=a557208ff80f8e9429c8bb38f2a5ff02&type=3#buttonbg");
+}
+
+.PlayMenuHeadingText {
+    height: auto;
+    color: rgb(255, 165, 0);
+    font-size: 22px;
+    -unity-font-definition: url("project://database/Assets/Text/Ubuntu-L.ttf?fileID=12800000&guid=423cda87492a76844b24741cb6ecae55&type=3#Ubuntu-L");
+    -unity-font-style: bold;
+    margin-top: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    margin-left: 7px;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    translate: 15px 0;
+}
+
+.PlayMenuInfoText {
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    -unity-text-outline-width: 0;
+    word-spacing: 0;
+    margin-top: 7px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    margin-left: 7px;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    translate: 9px 0;
+}
+
+.PlayMenuSlot {
+    flex-grow: 1;
+    background-image: url("project://database/Assets/Images/slot_simple.png?fileID=2800000&guid=c246a4c7fcea2f44da2fb752ce45407b&type=3#slot_simple");
+    height: 57%;
+    align-items: flex-start;
+    width: 25%;
+    justify-content: center;
+}
+
+.PlayMenuSlot:hover {
+    flex-grow: 1;
+    background-image: url("project://database/Assets/Images/slot_selected.png?fileID=2800000&guid=ec0f7af81786a2441823620feb07919c&type=3#slot_selected");
+    height: 57%;
+    align-items: flex-start;
+    width: 25%;
+    justify-content: center;
+}

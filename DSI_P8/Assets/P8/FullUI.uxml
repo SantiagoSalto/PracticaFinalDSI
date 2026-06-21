@@ -1,0 +1,8 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="MainMenu_UXML" src="project://database/Assets/P8/MainMenu_UXML.uxml?fileID=9197481963319205126&amp;guid=71f4a01a636f2a944bdd68261273c823&amp;type=3#MainMenu_UXML"/>
+    <ui:Template name="OptionsMenu_UXML" src="project://database/Assets/P8/OptionsMenu_UXML.uxml?fileID=9197481963319205126&amp;guid=a337f5dfc90bdb0458cbd2f06d96c482&amp;type=3#OptionsMenu_UXML"/>
+    <ui:Template name="PlayMenu_UXML" src="project://database/Assets/P8/PlayMenu_UXML.uxml?fileID=9197481963319205126&amp;guid=92bce49fb8af39c42a67c21e72916f08&amp;type=3#PlayMenu_UXML"/>
+    <ui:Instance template="MainMenu_UXML" name="MainMenu_UXML" style="display: flex; position: absolute; height: 1080px; width: 1920px;"/>
+    <ui:Instance template="OptionsMenu_UXML" name="OptionsMenu_UXML" style="display: none; opacity: 0; position: absolute; width: 100%; height: 100%;"/>
+    <ui:Instance template="PlayMenu_UXML" name="PlayMenu_UXML" style="display: none; opacity: 0; position: absolute; width: 100%; height: 100%;"/>
+</ui:UXML>

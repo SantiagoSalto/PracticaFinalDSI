@@ -1,0 +1,51 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/P8/P8_USS.uss?fileID=7433441132597879392&amp;guid=79ae7556b5e642c44a46f7f5b5d5bd2f&amp;type=3#P8_USS"/>
+    <ui:VisualElement name="VisualElement" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0.57);">
+        <ui:Image name="Image" style="align-items: center; align-self: center; -unity-font-definition: url(&quot;project://database/Assets/Text/Ubuntu-L.ttf?fileID=12800000&amp;guid=423cda87492a76844b24741cb6ecae55&amp;type=3#Ubuntu-L&quot;); font-size: 48px; background-image: url(&quot;project://database/Assets/Images/Play_background.png?fileID=2800000&amp;guid=daa489196cabbd642ac88e8184f6a9eb&amp;type=3#Play_background&quot;); aspect-ratio: auto; height: 1029px; width: 1882px;">
+            <ui:Label text="PLAY" name="Play" style="font-size: 51px; -unity-font-style: bold; color: rgb(255, 255, 255); letter-spacing: 0; height: auto; translate: 0 125px; -unity-text-align: upper-center; word-spacing: 0; white-space: nowrap; text-overflow: clip;"/>
+            <ui:VisualElement name="SLOTS" style="flex-grow: 1; align-items: center; flex-direction: row; width: 60%; height: auto; translate: 18px 18px;">
+                <ui:VisualElement name="Slot1" class="PlayMenuSlot">
+                    <ui:Label text="LOCATION" name="Location" class="PlayMenuHeadingText"/>
+                    <ui:Label text="The House of Hades" class="PlayMenuInfoText"/>
+                    <ui:Label text="ESCAPE ATTEMPTS" parse-escape-sequences="true" selectable="false" focusable="false" class="PlayMenuHeadingText" style="color: rgb(255, 165, 0);"/>
+                    <ui:Label text="TOTAL DARKNESS" class="PlayMenuInfoText"/>
+                    <ui:Label text="TOTAL DARKNESS" class="PlayMenuHeadingText"/>
+                    <ui:Label text="11,335" class="PlayMenuInfoText"/>
+                    <ui:Label text="LAST PLAYED" class="PlayMenuHeadingText"/>
+                    <ui:Label text="22 Nov2020 10:01AM" class="PlayMenuInfoText"/>
+                </ui:VisualElement>
+                <ui:VisualElement name="Slot2" class="PlayMenuSlot" style="flex-grow: 1; height: 57%; align-items: flex-start; width: 25%; justify-content: center;">
+                    <ui:Label text="LOCATION" name="Location" class="PlayMenuHeadingText"/>
+                    <ui:Label text="The House of Hades" class="PlayMenuInfoText"/>
+                    <ui:Label text="ESCAPE ATTEMPTS" parse-escape-sequences="true" selectable="false" focusable="false" class="PlayMenuHeadingText" style="color: rgb(255, 165, 0);"/>
+                    <ui:Label text="TOTAL DARKNESS" class="PlayMenuInfoText"/>
+                    <ui:Label text="TOTAL DARKNESS" class="PlayMenuHeadingText"/>
+                    <ui:Label text="11,335" class="PlayMenuInfoText"/>
+                    <ui:Label text="LAST PLAYED" class="PlayMenuHeadingText"/>
+                    <ui:Label text="22 Nov2020 10:01AM" class="PlayMenuInfoText"/>
+                </ui:VisualElement>
+                <ui:VisualElement name="Slot1" class="PlayMenuSlot" style="flex-grow: 1; height: 57%; align-items: flex-start; width: 25%; justify-content: center;">
+                    <ui:Label text="LOCATION" name="Location" class="PlayMenuHeadingText"/>
+                    <ui:Label text="The House of Hades" class="PlayMenuInfoText"/>
+                    <ui:Label text="ESCAPE ATTEMPTS" parse-escape-sequences="true" selectable="false" focusable="false" class="PlayMenuHeadingText" style="color: rgb(255, 165, 0);"/>
+                    <ui:Label text="TOTAL DARKNESS" class="PlayMenuInfoText"/>
+                    <ui:Label text="TOTAL DARKNESS" class="PlayMenuHeadingText"/>
+                    <ui:Label text="11,335" class="PlayMenuInfoText"/>
+                    <ui:Label text="LAST PLAYED" class="PlayMenuHeadingText"/>
+                    <ui:Label text="22 Nov2020 10:01AM" class="PlayMenuInfoText"/>
+                </ui:VisualElement>
+                <ui:VisualElement name="Slot1" class="PlayMenuSlot" style="flex-grow: 1; height: 57%; align-items: flex-start; width: 25%; justify-content: center;">
+                    <ui:Label text="LOCATION" name="Location" class="PlayMenuHeadingText"/>
+                    <ui:Label text="The House of Hades" class="PlayMenuInfoText"/>
+                    <ui:Label text="ESCAPE ATTEMPTS" parse-escape-sequences="true" selectable="false" focusable="false" class="PlayMenuHeadingText" style="color: rgb(255, 165, 0);"/>
+                    <ui:Label text="TOTAL DARKNESS" class="PlayMenuInfoText"/>
+                    <ui:Label text="TOTAL DARKNESS" class="PlayMenuHeadingText"/>
+                    <ui:Label text="11,335" class="PlayMenuInfoText"/>
+                    <ui:Label text="LAST PLAYED" class="PlayMenuHeadingText"/>
+                    <ui:Label text="22 Nov2020 10:01AM" class="PlayMenuInfoText"/>
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:Button text="" name="ReturnPlay" class="OptionsBackButton" style="translate: 1px -5px;"/>
+        </ui:Image>
+    </ui:VisualElement>
+</ui:UXML>

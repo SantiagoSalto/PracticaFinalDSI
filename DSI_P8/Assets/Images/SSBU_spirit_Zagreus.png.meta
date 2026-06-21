@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: af1cd3b552c2c474ba237a2303485dc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8053746845042054403
+    second: SSBU_spirit_Zagreus_0
+  - first:
+      213: 5835810571084989342
+    second: SSBU_spirit_Zagreus_1
+  - first:
+      213: -7568400835865064703
+    second: SSBU_spirit_Zagreus_2
+  - first:
+      213: 9208036025309346138
+    second: SSBU_spirit_Zagreus_3
+  - first:
+      213: -4100819957060184692
+    second: SSBU_spirit_Zagreus_4
+  - first:
+      213: -2617012584294428083
+    second: SSBU_spirit_Zagreus_5
+  - first:
+      213: 8158488559076345558
+    second: SSBU_spirit_Zagreus_6
+  - first:
+      213: 3790632590252694661
+    second: SSBU_spirit_Zagreus_7
+  - first:
+      213: 6051473253168185957
+    second: SSBU_spirit_Zagreus_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SSBU_spirit_Zagreus_0
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 673
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa685e3ae75b3090800000000000000
+      internalID: -8053746845042054403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSBU_spirit_Zagreus_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 599
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e938df18bc6fcf050800000000000000
+      internalID: 5835810571084989342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSBU_spirit_Zagreus_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 647
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b4e74f983a7f690800000000000000
+      internalID: -7568400835865064703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSBU_spirit_Zagreus_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 661
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59309f8af389cf70800000000000000
+      internalID: 9208036025309346138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSBU_spirit_Zagreus_4
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 597
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c855893e9f5f617c0800000000000000
+      internalID: -4100819957060184692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSBU_spirit_Zagreus_5
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 567
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42576c8be08eabd0800000000000000
+      internalID: -2617012584294428083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSBU_spirit_Zagreus_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 509
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d685d37e16c83170800000000000000
+      internalID: 8158488559076345558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSBU_spirit_Zagreus_7
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 521
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cd708d1480b9430800000000000000
+      internalID: 3790632590252694661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SSBU_spirit_Zagreus_8
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 431
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5620ed69cd62bf350800000000000000
+      internalID: 6051473253168185957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SSBU_spirit_Zagreus_0: -8053746845042054403
+      SSBU_spirit_Zagreus_1: 5835810571084989342
+      SSBU_spirit_Zagreus_2: -7568400835865064703
+      SSBU_spirit_Zagreus_3: 9208036025309346138
+      SSBU_spirit_Zagreus_4: -4100819957060184692
+      SSBU_spirit_Zagreus_5: -2617012584294428083
+      SSBU_spirit_Zagreus_6: 8158488559076345558
+      SSBU_spirit_Zagreus_7: 3790632590252694661
+      SSBU_spirit_Zagreus_8: 6051473253168185957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

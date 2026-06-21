@@ -1,0 +1,14 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/P8/P8_USS.uss?fileID=7433441132597879392&amp;guid=79ae7556b5e642c44a46f7f5b5d5bd2f&amp;type=3#P8_USS"/>
+    <ui:VisualElement name="VisualElement" style="height: 100%; flex-direction: row; align-items: center; justify-content: center; background-image: url(&quot;project://database/Assets/Images/MainMenuBackround.jpeg?fileID=2800000&amp;guid=c876c584a4091ec4bb6dceb6b90b78ca&amp;type=3#MainMenuBackround&quot;); background-color: rgb(0, 0, 0); -unity-background-image-tint-color: rgb(183, 219, 194);">
+        <ui:VisualElement style="flex-grow: 1; align-self: center; flex-direction: column; align-items: center; justify-content: center; width: 50%; height: 100%;">
+            <ui:Image style="height: 40%; width: 100%; background-image: url(&quot;project://database/Assets/Images/hades.png?fileID=2800000&amp;guid=487aa5479a327594f86641b4b52a3b94&amp;type=3#hades&quot;);"/>
+            <ui:VisualElement style="flex-grow: 1; width: 100%; height: 60%; justify-content: center; align-content: auto; align-self: flex-start; align-items: flex-start; flex-basis: auto; padding-top: 52px; padding-right: 52px; padding-bottom: 52px; padding-left: 52px;">
+                <ui:Button text="PLAY" name="PlayButton" class="MainMenuButton" style="background-color: rgba(0, 0, 0, 0);"/>
+                <ui:Button text="OPTIONS" name="SetupButton" class="MainMenuButton" style="background-color: rgba(19, 19, 19, 0);"/>
+                <ui:Button text="EXIT" class="MainMenuButton" style="background-color: rgba(19, 19, 19, 0);"/>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:Image name="Image" style="height: 100%; width: 50%; background-image: url(&quot;project://database/Assets/Images/SSBU_spirit_Zagreus.png?fileID=2800000&amp;guid=af1cd3b552c2c474ba237a2303485dc5&amp;type=3#SSBU_spirit_Zagreus&quot;);"/>
+    </ui:VisualElement>
+</ui:UXML>
